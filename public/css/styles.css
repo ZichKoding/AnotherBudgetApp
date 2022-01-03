@@ -1,4 +1,6 @@
 body {
+  background-color: rgb(4, 9, 24);
+  color: white;
   font-size: 120%;
   font-family: Arial;
 }
@@ -19,7 +21,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #444444;
 }
 
 .error {
