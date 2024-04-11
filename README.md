@@ -1,4 +1,4 @@
-# ***Another Budget App***
+# ***_Another Budget App_***
 
 [Click here to interact with live page](https://anotherbudgetapp.herokuapp.com)
 
